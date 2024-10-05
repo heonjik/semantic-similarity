@@ -1,8 +1,3 @@
-'''Semantic Similarity: starter code
-
-Author: Michael Guerzhoy. Last modified: Nov. 18, 2022.
-'''
-
 import math
 
 
